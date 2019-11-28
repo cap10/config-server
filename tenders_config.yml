@@ -1,4 +1,3 @@
-spring.jpa.properties.org.hibernate.envers.default_schema=audit
 eureka:         #tells about the Eureka server details and its refresh time
   instance:
     leaseRenewalIntervalInSeconds: 1
