@@ -1,0 +1,12 @@
+server:
+    port: 9051
+spring:
+    datasource:
+        password: Venon?1986
+        url: jdbc:mysql://localhost:3306/oauth_server
+        username: root
+    jpa:
+        hibernate: ddl-auto:update
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.MySQL5InnoDBDialect
