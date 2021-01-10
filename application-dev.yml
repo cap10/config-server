@@ -1,3 +1,5 @@
 server:
   port: 8191
 msg: This is from application config from Prod Server
+management.endpoints.web:
+    include: '*'
