@@ -1,3 +1,3 @@
 server:
   port: 8191
-msg: This is from application config from Dev Server
+msg: This is from application config from Prod Server
